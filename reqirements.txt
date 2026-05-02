@@ -8,4 +8,6 @@ scikit-learn>=1.4
 jupyter>=1.0
 ipykernel>=6.29
 
+statsmodels>=0.14
+nolds>=0.5.2
 ripser>=0.6.4
